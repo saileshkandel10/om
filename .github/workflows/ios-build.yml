@@ -60,11 +60,11 @@ jobs:
       - name: Build iOS app
         run: |
           if [ "${{ github.event.inputs.build_type || 'release' }}" = "debug" ]; then
-            flutter build ios --debug --no-pub
+            flutter build ios --debug --no-pub --no-codesign
           elif [ "${{ github.event.inputs.build_type || 'release' }}" = "profile" ]; then
-            flutter build ios --profile --no-pub
+            flutter build ios --profile --no-pub --no-codesign
           else
-            flutter build ios --release --no-pub
+            flutter build ios --release --no-pub --no-codesign
           fi
 
       - name: Prepare artifact directory
