@@ -1,0 +1,11 @@
+om_connect
+node_modules
+tests
+.git
+.github
+.agents
+.claude
+.codex
+*.py
+fix_*.php
+run_composer.php
