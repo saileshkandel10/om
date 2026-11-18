@@ -26,7 +26,7 @@ on:
 jobs:
   build-ios:
     name: Build iOS (${{ github.event.inputs.build_type || 'release' }})
-    runs-on: macos-14
+    runs-on: macos-15
     defaults:
       run:
         working-directory: om_connect
