@@ -19,6 +19,13 @@ return new class extends Migration
             $table->string('workos_id')->unique();
             $table->rememberToken();
             $table->text('avatar');
+            $table->string('mobile')->nullable();
+            $table->enum('status', [
+                'pending',
+                'active',
+                'inactive',
+                'suspended',
+            ])->default('pending');
             $table->timestamps();
         });
 

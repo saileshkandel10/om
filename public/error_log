@@ -1,0 +1,17 @@
+[05-Jul-2026 17:14:30 UTC] PHP Warning:  require(/home/lims/om.lims.com.np/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/lims/om.lims.com.np/public/index.php on line 14
+[05-Jul-2026 17:14:30 UTC] PHP Fatal error:  require(): Failed opening required '/home/lims/om.lims.com.np/public/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/lims/om.lims.com.np/public/index.php on line 14
+[05-Jul-2026 17:14:33 UTC] PHP Warning:  require(/home/lims/om.lims.com.np/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/lims/om.lims.com.np/public/index.php on line 14
+[05-Jul-2026 17:14:33 UTC] PHP Fatal error:  require(): Failed opening required '/home/lims/om.lims.com.np/public/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/lims/om.lims.com.np/public/index.php on line 14
+[05-Jul-2026 17:14:34 UTC] PHP Warning:  require(/home/lims/om.lims.com.np/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/lims/om.lims.com.np/public/index.php on line 14
+[05-Jul-2026 17:14:34 UTC] PHP Fatal error:  require(): Failed opening required '/home/lims/om.lims.com.np/public/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/lims/om.lims.com.np/public/index.php on line 14
+[05-Jul-2026 17:14:37 UTC] PHP Warning:  require(/home/lims/om.lims.com.np/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/lims/om.lims.com.np/public/index.php on line 14
+[05-Jul-2026 17:14:37 UTC] PHP Fatal error:  require(): Failed opening required '/home/lims/om.lims.com.np/public/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/lims/om.lims.com.np/public/index.php on line 14
+[05-Jul-2026 17:14:40 UTC] PHP Warning:  require(/home/lims/om.lims.com.np/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/lims/om.lims.com.np/public/index.php on line 14
+[05-Jul-2026 17:14:40 UTC] PHP Fatal error:  require(): Failed opening required '/home/lims/om.lims.com.np/public/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/lims/om.lims.com.np/public/index.php on line 14
+[05-Jul-2026 17:15:05 UTC] PHP Warning:  require(/home/lims/om.lims.com.np/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/lims/om.lims.com.np/public/index.php on line 14
+[05-Jul-2026 17:15:05 UTC] PHP Fatal error:  require(): Failed opening required '/home/lims/om.lims.com.np/public/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/lims/om.lims.com.np/public/index.php on line 14
+[05-Jul-2026 17:17:57 UTC] PHP Warning:  require(/home/lims/om.lims.com.np/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/lims/om.lims.com.np/public/index.php on line 14
+[05-Jul-2026 17:17:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lims/om.lims.com.np/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lims/om.lims.com.np/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/lims/om.lims.com.np/public/index.php on line 14
