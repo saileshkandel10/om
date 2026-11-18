@@ -9,3 +9,6 @@ tests
 *.py
 fix_*.php
 run_composer.php
+package.json
+package-lock.json
+vite.config.js
